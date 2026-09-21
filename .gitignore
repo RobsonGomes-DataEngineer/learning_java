@@ -1,0 +1,14 @@
+# Java
+*.class
+
+# Compilação
+bin/
+out/
+target/
+
+# VS code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+thumbs.db
