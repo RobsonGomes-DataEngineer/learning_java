@@ -1,4 +1,4 @@
-package logica.fundamentos.variaveis;
+package logica.fundamentos.exercicios;
 
 public class Exercicio1 {
     public static void main(String[] args) {
