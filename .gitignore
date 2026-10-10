@@ -12,3 +12,4 @@ target/
 # Sistema operacional
 .DS_Store
 thumbs.db
+./.idea/
