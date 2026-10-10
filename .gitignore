@@ -1,16 +1,18 @@
-# Java
-*.class
-
-# Compilação
-bin/
-out/
-target/
-
 # VS code
 .vscode/
 
-# Sistema operacional
-.DS_Store
-thumbs.db
-./.idea/
+# IntelliJ
+/.idea/
 *.iml
+*.iws
+*.ipr
+
+# Build
+/out/
+/target/
+/build/
+*.class
+
+# Sistema
+.DS_Store
+Thumbs.db
