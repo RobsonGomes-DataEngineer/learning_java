@@ -3,7 +3,7 @@
 2 - Se a idade for maior que 18 imprima "Adulto"
 3 - Senão imprima "Ainda não é Adulto!"
 */
-package logica.fundamentos.exercicios;
+package logica.exercicios;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package logica.fundamentos.exercicios;
+package logica.exercicios;
 import java.util.Scanner;
 
 public class Exercicio5 {

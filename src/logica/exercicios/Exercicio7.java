@@ -10,7 +10,7 @@ Use while com uma variável String continuar = "s";
 Use .equalsIgnoreCase("s") para comparar
 ⚠️ Reutilize as variáveis nome, idade, cidade — declare fora do loop e só reatribua dentro
  */
-package logica.fundamentos.exercicios;
+package logica.exercicios;
 
 import java.util.Scanner;
 
