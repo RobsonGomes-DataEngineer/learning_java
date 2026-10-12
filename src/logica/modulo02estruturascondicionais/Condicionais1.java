@@ -1,4 +1,4 @@
-package logica.fundamentos.condicionais;
+package logica.modulo02estruturascondicionais;
 
 public class Condicionais1 {
     public static void main(String[] args) {

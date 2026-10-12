@@ -1,4 +1,4 @@
-package logica.fundamentos.variaveis;
+package logica.modulo01entradaesaidadedados;
 import  java.util.Scanner;
 
 public class Scanner1 {

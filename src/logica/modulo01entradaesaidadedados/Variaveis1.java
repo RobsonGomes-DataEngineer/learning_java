@@ -1,4 +1,4 @@
-package logica.fundamentos.variaveis;
+package logica.modulo01entradaesaidadedados;
 public class Variaveis1 {
     public static void main(String[] args) {
         String nome = "Maria";
